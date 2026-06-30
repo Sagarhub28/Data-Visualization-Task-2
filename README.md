@@ -31,11 +31,6 @@ Create an interactive dashboard using Power BI to analyze Superstore sales data 
 <img width="1350" height="797" alt="image" src="https://github.com/user-attachments/assets/19454739-fa8e-4c88-9d79-981519877b35" />
 
 
-## Files Included
-- Sample - Superstore.csv
-- Superstore Dashboard.pbix
-- Dashboard Screenshot.png
-  
 
 ## Key Business Insights
 - Technology generated the highest sales.
